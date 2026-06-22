@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Product Browser Backend
 
 ## Tech Stack
@@ -28,3 +29,6 @@ GET /api/products/?search=chair
 GET /api/products/?min_price=1000&max_price=50000
 
 GET /api/products/?category=Furniture&search=chair
+=======
+# codevector-product-browser-backend
+>>>>>>> 510224f2e0128c23be19c0b4666e76c5d40e580f
